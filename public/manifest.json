@@ -1,0 +1,17 @@
+{
+  "name": "AI Tutor",
+  "short_name": "AI Tutor",
+  "description": "Your personal AI tutor for grades 6-12",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
